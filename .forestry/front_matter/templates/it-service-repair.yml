@@ -10,4 +10,3 @@ fields:
   description: 'The first header '
 pages:
 - content/index-1.md
-- content/index.md
